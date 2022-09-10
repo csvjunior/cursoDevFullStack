@@ -1,0 +1,28 @@
+body{
+    background-color: #2c3e50;
+}
+
+h1{
+    color: #ffffff;
+}
+
+.day h4{
+    color: #f1c40f;
+}
+
+.day ul li{
+    color: #ffffff
+}
+
+.crono h2{
+    background-color: #f1c40f;
+    border: 2px solid;
+}
+
+.crono ul li{
+    color: #ffffff;
+}
+
+#destaque{
+    color: #e74c3c;
+}
